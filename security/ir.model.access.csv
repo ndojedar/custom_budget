@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_custom_budget_custom_budget,custom_budget.custom_budget,model_custom_budget_custom_budget,base.group_user,1,1,1,1
